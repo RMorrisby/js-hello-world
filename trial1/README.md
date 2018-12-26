@@ -65,4 +65,6 @@ ReactDOM.render(<HelloWorld />, document.getElementById('root'));
 </html>
 ```
 
-In the base folder, run : webpack
+* In the base folder, run : webpack
+
+* Open index.html in a browser
